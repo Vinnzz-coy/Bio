@@ -15,10 +15,10 @@ const config = {
       url: "https://whatsapp.com/channel/0029Vb4f6xp8KMqt9kzMfP0V"
     },
     jasaWebsite: {
-      url: "https://wa.me/6287793507497?text=Halo+Vinnzz,+saya+ingin+tanya+jasa+pembuatan+website"
+      url: "https://wa.me/62895351125725?text=Halo+Vinnzz,+saya+ingin+tanya+jasa+pembuatan+website"
     },
     paidEdit: {
-      url: "https://wa.me/6287793507497?text=Halo+Vinnzz,+saya+ingin+order+Paid+Edit"
+      url: "https://wa.me/62895351125725?text=Halo+Vinnzz,+saya+ingin+order+Paid+Edit"
     },
     portfolio: {
       url: "#"
@@ -50,7 +50,6 @@ const config = {
   }
 };
 document.addEventListener('DOMContentLoaded', function () {
-  // Real-time Year
   const yearElement = document.getElementById('currentYear');
   if (yearElement) {
     yearElement.textContent = new Date().getFullYear();
