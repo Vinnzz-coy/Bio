@@ -9,7 +9,7 @@ const config = {
   },
   links: {
     whatsappAmPrem: {
-      url: "https://wa.me/6285836286701?text=mau+order+apk+prem+Vinnzz"
+      url: "https://wa.me/6289502066401?text=mau+order+apk+prem+Vinnzz"
     },
     whatsappChannel: {
       url: "https://whatsapp.com/channel/0029Vb4f6xp8KMqt9kzMfP0V"
